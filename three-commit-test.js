@@ -5,6 +5,6 @@
 // Line 5: COMMENT TARGET FOR COMMIT A
 // Line 6: More context
 // Line 7: Additional info
-// Line 8: WILL BE MODIFIED IN COMMIT B
+// Line 8: MODIFIED BY COMMIT B - target for Commit B comment
 // Line 9: Footer
 // Line 10: End
