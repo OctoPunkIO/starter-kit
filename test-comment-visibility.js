@@ -1,5 +1,5 @@
 // Line 1: Header
-// Line 2: Description
+// Line 2: MODIFIED IN COMMIT B
 // Line 3: Info
 // Line 4: Context
 // Line 5: THE COMMENTED LINE
